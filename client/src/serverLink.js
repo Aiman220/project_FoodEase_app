@@ -1,0 +1,1 @@
+export const ServerAPI = 'https://foodzyserver.onrender.com';
