@@ -4,7 +4,7 @@ import {IMG_CDN } from "../../Config";
 import logo from "../../assets/payment-logo.png";
 import fssai from "../../assets/fssai.jpg"
 import nonveg from "../../assets/nonveg.png";
-import paymentimg from "../../assets/Payment.png";
+import paymentimg from "../../assets/payment.png";
 import { toast } from 'react-toastify';
 import { FaHome,FaMapMarkerAlt,FaRupeeSign } from "react-icons/fa";
 import { GiWallet } from "react-icons/gi";
